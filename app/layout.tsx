@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'Merchant Ward | Nearby trade registry',
-  description: 'Discover independent shops nearby, or register your own place in the ward.',
+  title: 'Merchant Ward | Live local business finder',
+  description: 'Find nearby local businesses with live Google Places details, photos, and directions.',
 };
 
 export default function RootLayout({
